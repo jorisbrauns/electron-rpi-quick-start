@@ -1,3 +1,7 @@
+# Update: This project is no longer maintained - instead use [resin-electronjs](https://github.com/fwrgit/resin-electronjs)
+
+Our friends at [snappin.io](http://snappin.io/) have their own [boilerplate](https://github.com/fwrgit/resin-electronjs) that is actively maintained and used in production.
+
 # electron-rpi-quick-start
 
 This fork of the [electron-quick-start](https://github.com/atom/electron-quick-start) app was made to jumpstart any electron app development on the rasperrypi (or any [resin.io supported device that has screen output](https://resin.io/#supported-devices)). Resin.io allows you to easily deploy and manage your application across a fleet of devices making it a great fit for distributed electron app. You can read more about how resin.io works [here](https://resin.io/how-it-works/)
